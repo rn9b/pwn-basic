@@ -21,7 +21,7 @@
 ## Stack pt 0 Stack Tendencies
 
 #### 4.) Buffer Overflow of Variables
-[ ]    Csaw18/boi<br>
+[x]    Csaw18/boi<br>
 [ ]    TokyoWesterns17/just_do_it<br>
 [ ]    Tamu19_pwn1<br>
 
