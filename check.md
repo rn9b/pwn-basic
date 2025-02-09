@@ -3,8 +3,8 @@
 #### 0.) Intro to the Project
 
 #### 1.) Intro to Assembly
--    Intro to assembly [x]
--    Sample assembly reverse challs
+[]    Intro to assembly<br>
+[]    Sample assembly reverse challs<br>
 
 #### 2.) Intro to Tooling
 -    gdb-gef
