@@ -100,10 +100,10 @@
 [ ]    hacklu15_stackstuff<br>
 
 #### 16.) SROP
-[ ]    backdoorctf_funsignals<br>
+[x]    backdoorctf_funsignals<br>
 [ ]    inctf17_stupiddrop<br>
 [ ]    swamp19_syscaller<br>
-[ ]    csaw19_smallboi<br>
+[x]    csaw19_smallboi<br>
 
 #### 17.) Stack Pivot / Partial Overwrite
 [ ]    defconquals19_speedrun4<br>
